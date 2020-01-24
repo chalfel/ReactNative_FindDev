@@ -1,0 +1,8 @@
+{
+  "urlRandomness": "xx-qfk",
+  "hostType": "localhost",
+  "lanType": "ip",
+  "dev": true,
+  "minify": false,
+  "https": false
+}
